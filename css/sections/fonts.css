@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Caoji20;
+  src: url("./../fonts/Caoji20-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Hib;
+  src: url("./../fonts/hib__.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: JujutsuKaisen;
+  src: url("./../fonts/Jujutsu Kaisen.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: LightMorning;
+  src: url("./../fonts/lightmorning.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Murasaki;
+  src: url("./../fonts/Murasaki DEMO.otf") format("opentype");
+}
